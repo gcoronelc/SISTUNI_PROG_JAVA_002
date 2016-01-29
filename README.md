@@ -1,8 +1,8 @@
 # PROGRAMADOR JAVA
 
 - Lugar: SistemasUNI
-- Horario: MA - JU de 8 am a 2 pm
-- Inicio: 02-FEB-2016
+- Horario: DOMINGOS de 8 a 14 Horas
+- Inicio: 31-ENE-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
@@ -22,7 +22,7 @@
 
 # CLASE 01
 
-- Fecha: 02-FEB-2016
+- Fecha: 31-ENE-2016
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
