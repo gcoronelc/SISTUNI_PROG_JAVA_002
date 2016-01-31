@@ -27,7 +27,7 @@
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
 
-- Esto esta chevere.
+
 
 
 
