@@ -1,4 +1,4 @@
-# PROGRAMADOR JAVA
+﻿# PROGRAMADOR JAVA
 
 - Lugar: SistemasUNI
 - Horario: DOMINGOS de 8 a 14 Horas
@@ -27,7 +27,7 @@
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
 
-
+- Esto esta chevere.
 
 
 
