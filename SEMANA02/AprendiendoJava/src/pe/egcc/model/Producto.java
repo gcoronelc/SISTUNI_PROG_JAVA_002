@@ -10,9 +10,20 @@ public class Producto {
   private double precio;
   private int stock;
   private boolean activo;
-  
-  
-  
+
+  public Producto() {
+    this.nombre = "Televisor de 80'";
+    this.precio = 10500.0;
+    this.stock = 200;
+    this.activo = true;
+    System.out.println("Objeto creado.");
+  }
+
+  @Override
+  protected void finalize() throws Throwable {
+    super.finalize();
+    System.err.println("Chau objeto.");
+  }
 
   public String getNombre() {
     return nombre;

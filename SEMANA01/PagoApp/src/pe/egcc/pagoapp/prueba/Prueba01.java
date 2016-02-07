@@ -1,0 +1,26 @@
+package pe.egcc.pagoapp.prueba;
+
+import pe.egcc.pagoapp.dto.PagoDto;
+import pe.egcc.pagoapp.services.PagoService;
+
+/**
+ *
+ * @author Gustavo Coronel
+ */
+public class Prueba01 {
+  
+  public static void main(String[] args) {
+    // Dato
+    PagoDto dto = new PagoDto();
+    dto.setHorasDia(6);
+    dto.setDias(20);
+    dto.setPagoHora(150.0);
+    // Proceso
+    PagoService service = new PagoService();
+    service.procesar(dto);
+    // Reporte
+    System.out.println("Ingresos: " + dto.getImgresos());
+    System.out.println("Renta: " + dto.getRenta());
+    System.out.println("Neto: " + dto.getNeto());
+  }
+}

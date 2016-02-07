@@ -13,6 +13,12 @@ public class Prueba02 {
     Producto prod1 = new Producto();
     mostrar(prod1);
     
+    prod1.setNombre("Auto 2017");
+    prod1.setPrecio(25000.0);
+    prod1.setStock(1);
+    prod1.setActivo(false);
+    mostrar(prod1);
+    
   }
 
   private static void mostrar(Producto p) {
