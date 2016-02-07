@@ -22,6 +22,36 @@ public class Producto {
     System.out.println("Objeto creado.");
   }
 
+  /**
+   * Constructor adicional.
+   * 
+   * @param nombre
+   * @param precio
+   */
+  public Producto(String nombre, double precio) {
+    this.nombre = nombre;
+    this.precio = precio;
+    this.stock = 0;
+    this.activo = false;
+  }
+  
+  /**
+   * Constructor adicional.
+   * 
+   * @param nombre
+   * @param precio
+   * @param stock
+   * @param activo 
+   */
+  public Producto(String nombre, double precio, int stock, boolean activo) {
+    this.nombre = nombre;
+    this.precio = precio;
+    this.stock = stock;
+    this.activo = activo;
+  }
+  
+  
+
   @Override
   protected void finalize() throws Throwable {
     super.finalize();
