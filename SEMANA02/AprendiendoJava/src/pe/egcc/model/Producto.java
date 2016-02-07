@@ -11,6 +11,9 @@ public class Producto {
   private int stock;
   private boolean activo;
 
+  /**
+   * Constructor por defecto
+   */
   public Producto() {
     this.nombre = "Televisor de 80'";
     this.precio = 10500.0;
