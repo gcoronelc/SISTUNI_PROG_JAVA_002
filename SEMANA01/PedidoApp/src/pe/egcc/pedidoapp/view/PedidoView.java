@@ -107,7 +107,7 @@ public class PedidoView extends javax.swing.JFrame {
     JOptionPane.showMessageDialog(rootPane, repo);
     Scanner entrada = new Scanner(System.in);
     entrada.nextInt();
-    entrada.close();
+    //entrada.close();
   }
   
   /**
