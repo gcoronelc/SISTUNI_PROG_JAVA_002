@@ -26,6 +26,16 @@
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
 
+# CLASE 02
+
+- Fecha: 07-FEB-2016
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
+
+# CLASE 03
+
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-05-herencia.html
 
 
 
